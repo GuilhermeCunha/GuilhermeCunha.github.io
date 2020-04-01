@@ -1,6 +1,5 @@
-# v3
+# Template created by [Brittany Chiang](https://github.com/bchiang7/bchiang7.github.io)
 
-Third iteration of my personal website built with Jekyll.
 
 > 📢 **PSA for those who want to fork or copy this repo and use it for their own site:**
 >

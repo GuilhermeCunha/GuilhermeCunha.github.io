@@ -6,13 +6,11 @@ url: https://guilhermecunha.github.io/
 baseurl: ''
 email: brittany.chiang@gmail.com
 cover: https://guilhermecunha.github.io/img/og.png
-logo: https://guilhermecunha.github.io/img/emojis/technologist.png
+logo: https://guilhermecunha.github.io/img/me/face_400x400.png
 resume: https://guilhermecunha.github.io/resume.pdf
 social:
   - title: email
     url: mailto:guiscunha@gmail.com
-  - title: instagram
-    url: https://instagram.com/bchiang7
   - title: github
     url: https://github.com/GuilhermeCunha
   - title: linkedin
